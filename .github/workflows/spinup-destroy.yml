@@ -8,9 +8,9 @@ env:
   IMAGE_REGISTRY_URL: ghcr.io
   AZURE_RESOURCE_GROUP: cd-with-actions
   AZURE_APP_PLAN: actions-ttt-deployment
-  AZURE_LOCATION: '"East US"'
+  AZURE_LOCATION: '"North Europe"'
   ###############################################
-  ### Replace <username> with GitHub username ###
+  ### Replace mathador with GitHub username ###
   ###############################################
   AZURE_WEBAPP_NAME: mathador-ttt-app
 
